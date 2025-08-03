@@ -77,16 +77,6 @@ whatsapp-analysis/
 │   ├── Average participant calculations
 │   └── Monthly/yearly trend analysis
 │
-├── 📈 group_size_available.py           # Group size analytics
-│   ├── Size distribution analysis
-│   ├── Growth pattern identification
-│   └── Comparative group metrics
-│
-├── 💬 messaging_feature.py              # Message pattern analysis
-│   ├── Communication frequency metrics
-│   ├── Engagement level calculations
-│   └── Activity correlation analysis
-│
 └── 📋 README.md                         # Project documentation
 ```
 
